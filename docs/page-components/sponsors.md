@@ -19,7 +19,7 @@ gh_sponsor: chrisrhymes
 
 You can list out your sponsors easily on your site using a sponsors datafile. It allows you to list different tiers and link to the sponsors site or profile.
 
-[View an example Sponsors page](/bulma-clean-theme/sponsors/)
+[View an example Sponsors page](/sponsors/)
 
 ## Creating a Sponsors Datafile
 

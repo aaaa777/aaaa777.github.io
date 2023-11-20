@@ -27,3 +27,7 @@ $ bundle exec jekyll new .
 ## Github Pagesでの公開
 
 デフォルトのPagesビルドは使えるgemが制限されるので、github pagesのデプロイActionを使うと楽
+
+Settings > PagesからActionsを設定したら自動でコミット作ってくれるので、ポチポチしていけば公開できる
+
+以上

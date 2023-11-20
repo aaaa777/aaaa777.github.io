@@ -57,4 +57,4 @@ recipe_cuisine: Italian
 calories: 500 calories
 ```
 
-[View example Recipe page](/bulma-clean-theme/example-recipe)
+[View example Recipe page](/example-recipe)

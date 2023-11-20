@@ -36,7 +36,7 @@ rating: 3
 
 The text you write for the page content will be displayed as the product description. 
 
-[View example Product page](/bulma-clean-theme/products/product2/)
+[View example Product page](/products/product2/)
 
 ## Product Collections 
 

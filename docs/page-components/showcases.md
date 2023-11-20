@@ -11,7 +11,7 @@ toc: true
 
 A showcase allows you to showcase your work with a large image, description and a list of features. 
 
-[View an example showcase](/bulma-clean-theme/showcase)
+[View an example showcase](/showcase)
 
 ## Creating A Showcase Datafile
 
