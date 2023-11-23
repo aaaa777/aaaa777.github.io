@@ -1,6 +1,6 @@
 ---
-title: aaaa777の外部記憶装置
-subtitle: 忘れたくないことを書くところ
+title: aaaa777's blog
+# subtitle: なんでも日記
 layout: page
 # callouts: home_callouts
 show_sidebar: true

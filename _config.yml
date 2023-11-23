@@ -1,12 +1,12 @@
 # Site Settings
 lang: ja
-title: Bulma Clean Theme
+title: aaaa777's blog
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+# email: 
 description: >
   aaaa777's blog
 baseurl: ""
-url: "https://www.csrhymes.com"
+url: "https://aaaa777.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 # gh_sponsor: aaaa777
