@@ -1,7 +1,21 @@
+{% assign counter = 0 %}
+
 <p class="title is-4">Latest Posts</p>
 
 <div class="columns is-multiline">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts limit:6 %}
+    {% assign counter = counter | plus: 1 %}
+    {% if counter > 3 %}
+        {% continue %}
+    {% endif %}
+    
+    {% if post.tags contains 'hidden' %}
+        {% continue %}
+    {% endif %}
+    {% if post.tags contains 'draft' %}
+        {% continue %}
+    {% endif %}
+    
     <div class="column is-12">
         {% include post-card.html %}
     </div>
