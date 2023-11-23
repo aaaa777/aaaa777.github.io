@@ -9,6 +9,7 @@ hero_darken: true
 tags:
  - notes
  - math
+ - hidden
 ---
 
 
