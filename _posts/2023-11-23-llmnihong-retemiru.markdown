@@ -9,6 +9,7 @@ hero_darken: true
 tags:
  - blog
  - dialy
+ - hidden
 ---
 
 ここ数日自分の中でAIブームが来てます。
