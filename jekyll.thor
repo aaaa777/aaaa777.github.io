@@ -24,6 +24,7 @@ class Jekyll < Thor
       post.puts "tags:"
       post.puts " - blog"
       post.puts " - dialy"
+      post.puts "# - draft"
       post.puts "---"
     end
 
